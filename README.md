@@ -6,7 +6,7 @@ I'm a **Telematics Engineer** with over **25 years of experience** in software d
 
 💼 **Currently working as Lead Software Architect at Siemens**, developing **WinCC RT**, an industrial **SCADA automation** application.
 
-🛠️ **Founder of Steamatic**, a company that successfully developed and produced an **IoT device**. While the company no longer exists, the project was a technological success.
+🛠️ **Co-Founder of Steamatic GmbH**, a company that successfully developed and produced an **IoT device**. While the company no longer exists, the project was a technological success.
 
 I'm also organizing and documenting my projects on GitHub. 📌  
 
